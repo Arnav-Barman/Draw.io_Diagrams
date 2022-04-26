@@ -41,7 +41,12 @@ As the name suggests, this repo contains all the python notebooks that I used to
 - - [x] Build custom functions
 - - [x] Scope of Variables
 - - [x] Packing arguments into tuple, dictionary
-- [ ] 7. **Objects, Classes & Exception Handling**
+- [x] 7. **Objects, Classes & Exception Handling**
+- - [x] Try... Except... Statement
+- - [x] Adding else and finally statements to try/except
+- - [x] Object types and instances
+- - [x] Classes in Python
+- - [x] Methods in classes
 - [ ] 8. **Reading and Writing files**
 - [ ] 9. **Pandas**
 - [ ] 10. **Numpy**
