@@ -34,6 +34,8 @@ As the name suggests, this repo contains all the python notebooks that I used to
 - - [x] Comparison Operators
 - - [x] Branching: If, Elif, Else.
 - [ ] 6. **Loops & Functions**
+- - [x] Intro to loops: For Loop, While Loop
+- - [x] Some useful methods: append, enumerate
 - [ ] 7. **Objects, Classes & Exception Handling**
 - [ ] 8. **Reading and Writing files**
 - [ ] 9. **Pandas**
