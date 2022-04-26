@@ -38,3 +38,5 @@ As the name suggests, this repo contains all the python notebooks that I used to
 - [ ] 10. **Numpy**
 - [ ] 11. **Simple APIs**
 - [ ] 12. **RestAPI, Webscraping & Working with files**
+- [ ] 13. **Unit testing & Packaging**
+- [ ] 14. **Web Apps using Flask**
