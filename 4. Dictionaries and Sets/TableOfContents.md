@@ -1,1 +1,19 @@
-
+## Table of Contents:
+- [x] Intro to Dictionaries
+- [x] Methods
+- - [x] keys() 
+- - [x] values()
+- [x] Operations on Dictionary 
+- - [x] Append
+- - [x] Delete
+- - [x] Verify.
+- [x] Intro to Sets
+- [x] Operations on Sets
+- - [x] Add 
+- - [x] Remove
+- - [x] Verify.
+- [x] Logical Operations on sets
+- - [x] Union
+- - [x] Intersection
+- - [x] Difference
+- [x] Find Subset & Superset.
