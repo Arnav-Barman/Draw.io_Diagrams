@@ -30,7 +30,9 @@ As the name suggests, this repo contains all the python notebooks that I used to
 - - [x] Operations on Sets: Add, remove, verify.
 - - [x] Logical Operations on sets: Union, Intersection, Difference
 - - [x] Find Subset & Superset.
-- [ ] 5. **Conditions and Branching**
+- [x] 5. **Conditions and Branching**
+- - [x] Comparison Operators
+- - [x] Branching: If, Elif, Else.
 - [ ] 6. **Loops & Functions**
 - [ ] 7. **Objects, Classes & Exception Handling**
 - [ ] 8. **Reading and Writing files**
