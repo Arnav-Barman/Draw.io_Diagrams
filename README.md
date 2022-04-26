@@ -2,8 +2,14 @@
 As the name suggests, this repo contains all the python notebooks that I used to get started with python. I did the following courses to understand python better:
 - [Python for Data Science, AI & Development by IBM](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 - [Python Project for AI & Application Development by IBM](https://www.coursera.org/learn/python-project-for-ai-application-development)
+
+Some resources from the course:
+- [Python Cheat Sheet - The Basics Coursera](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/handouts/Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.pdf)
+- [Python_reference_sheet](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/Module%203/Python_reference_sheet.pdf?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2021-01-01)
+
 > I am currently pursuing these courses and will keep updating the repo as I learn more.
 
+---
 ## Table of contents:
 - [x] 1. **Basics of Python**
 - - [x] Hello,World!
