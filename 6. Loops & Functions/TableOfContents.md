@@ -5,3 +5,14 @@
 - [x] Some useful methods
 - - [x] append
 - - [x] enumerate
+- [x] Intro to functions
+- [x] Builtin functions:
+- - [x] len
+- - [x] sum
+- - [x] sort
+- - [x] sorted
+- [x] Build custom functions
+- [x] Scope of Variables
+- [x] Packking arguments
+- - [x] In tuple (\*arg)
+- - [x] In dictionary (\**arg) 
