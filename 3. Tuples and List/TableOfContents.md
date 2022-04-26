@@ -1,1 +1,15 @@
-
+## Table of Contents:
+- [x] Intro to Tuples
+- [x] Operations on Tuples
+- - [x] Slicing 
+- - [x] Sorting 
+- - [x] Concatenation
+- [x] Nested Tuples
+- [x] Intro to Lists
+- [x] Operations on Lists
+- - [x] Slicing 
+- - [x] Extend 
+- - [x] Append 
+- - [x] Del
+- - [x] Split
+- [x] Cloning Lists
