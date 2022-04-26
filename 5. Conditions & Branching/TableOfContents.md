@@ -1,0 +1,12 @@
+## Table of Contents:
+- [x] Conditional statements
+- - [x] Equal: ==
+- - [x] Not equal: !=
+- - [x] Greater than: >
+- - [x] Less than: <
+- - [x] Greater than or equal to: >=
+- - [x] Less than or equal to: <= 
+- [x] Branching
+- - [x] if statement
+- - [x] elif statement
+- - [x] else statement
