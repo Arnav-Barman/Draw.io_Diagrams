@@ -11,52 +11,52 @@ Some resources from the course:
 
 ---
 ## Table of contents:
-- [x] 1. **Basics of Python**
-- - [x] Hello,World!
-- - [x] Types of Objects
-- - [x] Typecasting
-- - [x] Arithmetic Operations
-- - [x] Variables
-- [x] 2. **Stings Operations**
-- - [x] String Indexing
-- - [x] String Slicing & Striding
-- - [x] Operations on String
-- [x] 3. **Tuples and List**
-- - [x] Intro to Tuples
-- - [x] Slicing Tuples
-- - [x] Nested Tuples
-- - [x] Intro to Lists
-- - [x] Operations on Lists: slicing, extend, append, del, split
-- - [x] Cloning Lists
-- [x] 4. **Dictionaries & Sets**
-- - [x] Intro to Dictionaries
-- - [x] Methods: keys() & values()
-- - [x] Operations on Dictionary: Append, delete, verify.
-- - [x] Intro to Sets
-- - [x] Operations on Sets: Add, remove, verify.
-- - [x] Logical Operations on sets: Union, Intersection, Difference
-- - [x] Find Subset & Superset.
-- [x] 5. **Conditions and Branching**
-- - [x] Comparison Operators
-- - [x] Branching: If, Elif, Else.
-- [x] 6. **Loops & Functions**
-- - [x] Intro to loops: For Loop, While Loop
-- - [x] Some useful methods: append, enumerate
-- - [x] Intro to functions
-- - [x] Builtin functions: len, sum, sort, sorted
-- - [x] Build custom functions
-- - [x] Scope of Variables
-- - [x] Packing arguments into tuple, dictionary
-- [x] 7. **Objects, Classes & Exception Handling**
-- - [x] Try... Except... Statement
-- - [x] Adding else and finally statements to try/except
-- - [x] Object types and instances
-- - [x] Classes in Python
-- - [x] Methods in classes
-- [ ] 8. **Reading and Writing files**
-- [ ] 9. **Pandas**
-- [ ] 10. **Numpy**
-- [ ] 11. **Simple APIs**
-- [ ] 12. **RestAPI, Webscraping & Working with files**
-- [ ] 13. **Unit testing & Packaging**
-- [ ] 14. **Web Apps using Flask**
+### 1. **Basics of Python**
+ - [x] Hello,World!
+ - [x] Types of Objects
+ - [x] Typecasting
+ - [x] Arithmetic Operations
+ - [x] Variables
+### 2. **Stings Operations**
+ - [x] String Indexing
+ - [x] String Slicing & Striding
+ - [x] Operations on String
+### 3. **Tuples and List**
+ - [x] Intro to Tuples
+ - [x] Slicing Tuples
+ - [x] Nested Tuples
+ - [x] Intro to Lists
+ - [x] Operations on Lists: slicing, extend, append, del, split
+ - [x] Cloning Lists
+### 4. **Dictionaries & Sets**
+ - [x] Intro to Dictionaries
+ - [x] Methods: keys() & values()
+ - [x] Operations on Dictionary: Append, delete, verify.
+ - [x] Intro to Sets
+ - [x] Operations on Sets: Add, remove, verify.
+ - [x] Logical Operations on sets: Union, Intersection, Difference
+ - [x] Find Subset & Superset.
+### 5. **Conditions and Branching**
+ - [x] Comparison Operators
+ - [x] Branching: If, Elif, Else.
+### 6. **Loops & Functions**
+ - [x] Intro to loops: For Loop, While Loop
+ - [x] Some useful methods: append, enumerate
+ - [x] Intro to functions
+ - [x] Builtin functions: len, sum, sort, sorted
+ - [x] Build custom functions
+ - [x] Scope of Variables
+ - [x] Packing arguments into tuple, dictionary
+### 7. **Objects, Classes & Exception Handling**
+ - [x] Try... Except... Statement
+ - [x] Adding else and finally statements to try/except
+ - [x] Object types and instances
+ - [x] Classes in Python
+ - [x] Methods in classes
+### 8. **Reading and Writing files**
+### 9. **Pandas**
+### 10. **Numpy**
+### 11. **Simple APIs**
+### 12. **RestAPI, Webscraping & Working with files**
+### 13. **Unit testing & Packaging**
+### 14. **Web Apps using Flask**
