@@ -63,6 +63,12 @@ Some resources from the course:
 - [x] Locating Data using `loc()` and `iloc()`
 - [x] Slicing
 ### 10. **Numpy**
+- [x] Array
+- [x] Indexing and Slicing
+- [x] Basic Operations
+- [x] Plotting Functions
+- [x] Multi- Dimensional Arrays
+- [x] Operations on Multi-Dimensional Arrays
 ### 11. **Simple APIs**
 ### 12. **RestAPI, Webscraping & Working with files**
 ### 13. **Unit testing & Packaging**
