@@ -54,7 +54,14 @@ Some resources from the course:
  - [x] Classes in Python
  - [x] Methods in classes
 ### 8. **Reading and Writing files**
+- [x] Reading files
+- - [x] `With` statement
+- [x] Writing files
+- [x] Tell & seek methods
 ### 9. **Pandas**
+- [x] Creating dataframe
+- [x] Locating Data using `loc()` and `iloc()`
+- [x] Slicing
 ### 10. **Numpy**
 ### 11. **Simple APIs**
 ### 12. **RestAPI, Webscraping & Working with files**
