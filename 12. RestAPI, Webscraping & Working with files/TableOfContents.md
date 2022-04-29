@@ -6,3 +6,4 @@
 - [x] HTML trees
 - [x] Webscraping
 - - [x] Beautiful Soup 
+- [x] Working with different file formats
