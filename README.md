@@ -78,5 +78,6 @@ Some resources from the course:
 - [x] Using HTTP requests
 - [x] Webscraping
 - - [x] Beautiful Soup
+- [x] Working with different file formats
 ### 13. **Unit testing & Packaging**
 ### 14. **Web Apps using Flask**
