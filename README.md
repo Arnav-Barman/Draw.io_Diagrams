@@ -71,6 +71,12 @@ Some resources from the course:
 - [x] Multi- Dimensional Arrays
 - [x] Operations on Multi-Dimensional Arrays
 ### 11. **Simple APIs**
+- Hands-on lab:
+  - - [x] Using a simple API
+  - - [x] Using an API with IBM Watson
 ### 12. **RestAPI, Webscraping & Working with files**
+- [x] Using HTTP requests
+- [x] Webscraping
+- - [x] Beautiful Soup
 ### 13. **Unit testing & Packaging**
 ### 14. **Web Apps using Flask**
