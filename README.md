@@ -80,4 +80,8 @@ Some resources from the course:
 - - [x] Beautiful Soup
 - [x] Working with different file formats
 ### 13. **Unit testing & Packaging**
+- [x] Using unittest library
+- [x] Creating Python Packages
+- [x] Checking python compliance score using pylint
+- - [x] Learnt about the f-strings in python
 ### 14. **Web Apps using Flask**
