@@ -85,3 +85,5 @@ Some resources from the course:
 - [x] Checking python compliance score using pylint
 - - [x] Learnt about the f-strings in python
 ### 14. **Web Apps using Flask**
+- [x] Decorators in Flask
+- [x] Creating basic flask apps
