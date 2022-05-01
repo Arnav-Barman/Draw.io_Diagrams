@@ -2,7 +2,7 @@
 As the name suggests, this repo contains all the python notebooks that I used to get started with python. I did the following courses to understand python better:
 - [Python for Data Science, AI & Development by IBM](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 - [Python Project for AI & Application Development by IBM](https://www.coursera.org/learn/python-project-for-ai-application-development)
-- - [Repository for the project I made in this course](https://github.com/Arnav-Barman/FlaskProject_LearningPython)
+  - [Repository for the project I made in this course](https://github.com/Arnav-Barman/FlaskProject_LearningPython)
 - [Python in 2Hrs](https://github.com/psrana/Learn-Python-in-2-hr)
 
 Some resources from the course:
